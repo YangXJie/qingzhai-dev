@@ -27,7 +27,7 @@ public class PageResult<T> {
         this.flag = flag;
         this.message = message;
         this.total = total;
-        rows = rows;
+        this.rows = rows;
     }
 
 }
