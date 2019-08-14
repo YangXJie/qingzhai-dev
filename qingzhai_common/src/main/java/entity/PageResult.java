@@ -5,7 +5,7 @@ import lombok.Data;
 import java.util.List;
 
 /**
- *  分页查询后返回类
+ * 分页查询后返回类
  * @param <T>
  */
 @Data

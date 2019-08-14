@@ -2,6 +2,9 @@ package entity;
 
 import lombok.Data;
 
+/**
+ *
+ * */
 @Data
 public class Result {
 	/** 是否成功 */
