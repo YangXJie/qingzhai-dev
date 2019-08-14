@@ -1,7 +1,7 @@
 package entity;
 
 /**
- *  状态
+ *   状态
  */
 public class StatusCode {
     /** 成功 */

@@ -8,9 +8,9 @@ public class Result {
 	private boolean flag;
 	/** 状态码 */
 	private Integer code;
-	/**  消息 */
+	/** 消息 */
 	private String message;
-	/**  数据 */
+	/** 数据 */
 	private Object data;
 
 	public Result(boolean flag, Integer code, String message, Object data) {
