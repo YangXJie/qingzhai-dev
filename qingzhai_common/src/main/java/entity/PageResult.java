@@ -21,7 +21,7 @@ public class PageResult<T> {
     private Long total;
     /** 一页的数据 */
     private List<T> rows;
-
+    
     public PageResult(Boolean flag, int code, String message, Long total, List<T> rows) {
         this.code = code;
         this.flag = flag;
